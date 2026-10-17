@@ -35,3 +35,6 @@ frontend/dist/
 
 # Local debug output
 .DS_Store?
+
+# Ignore environment example file
+.env.example
