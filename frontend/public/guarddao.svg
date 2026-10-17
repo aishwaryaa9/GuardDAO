@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="guarddao" x1="7" y1="7" x2="41" y2="41" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="#090D16"/>
+  <path d="M24 5 40 11v11c0 10.3-6.8 17.2-16 21C14.8 39.2 8 32.3 8 22V11l16-6Z" fill="url(#guarddao)"/>
+  <path d="m17 23 5 5 10-10" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</svg>

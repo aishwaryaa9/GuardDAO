@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+artifacts/
+cache/
+typechain-types/
+coverage/
+coverage.json
+
+# Hardhat Ignition
+ignition/deployments/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Frontend build output
+frontend/dist/
+
+# Private keys and local credentials
+.env.production
+*.pem
+*.key
+
+# Local debug output
+.DS_Store?
